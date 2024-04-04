@@ -1,0 +1,24 @@
+{
+  "name": "user-management",
+  "version": "1.0.0",
+  "description": "Manages user information",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anju-Krishna-PK/User_Management.git"
+  },
+  "keywords": [
+    "user",
+    "active",
+    "inactive"
+  ],
+  "author": "Anju Krishna P K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anju-Krishna-PK/User_Management/issues"
+  },
+  "homepage": "https://github.com/Anju-Krishna-PK/User_Management#readme"
+}
